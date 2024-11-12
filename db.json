@@ -1,0 +1,10 @@
+{
+  "Products": [
+    {
+      "name": "Ebook",
+      "price": 19.90,
+      "stock_quantity": 10,
+      "description": "The best ebook in the world!"
+    }
+  ]
+}
